@@ -1,0 +1,1 @@
+void leerArchivo(const char *nombreArchivo);
